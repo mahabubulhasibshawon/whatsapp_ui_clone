@@ -2,6 +2,7 @@
 
 # WhatsApp UI Clone
 
+<<<<<<< HEAD
 This project is a UI clone of WhatsApp built with Flutter. It consists of a splash screen and a multi-tabbed home page featuring Camera, Chats, Status, and Calls tabs. The design focuses on mimicking WhatsApp's UI, making use of Flutter's powerful widget system.
 
 ## Key Features
@@ -137,3 +138,8 @@ Feel free to contribute or suggest improvements!
 [MIT License](LICENSE)
 
 ---
+=======
+## Screen Records
+https://github.com/user-attachments/assets/217a5200-1139-45cc-b8db-21add6ebd5ec
+
+>>>>>>> 26246cc238fc45383b1ebd0a73f65a20111e45ca
