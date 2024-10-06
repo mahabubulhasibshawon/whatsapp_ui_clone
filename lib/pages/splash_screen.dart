@@ -16,7 +16,7 @@ class _SplashScreenState extends State<SplashScreen> {
   void initState() {
     // TODO: implement initState
     super.initState();
-    Timer(Duration(seconds: 1), () {
+    Timer(Duration(seconds: 13), () {
       Navigator.pushReplacement(
           context, MaterialPageRoute(builder: (context) => HomePage()));
     });
@@ -34,7 +34,7 @@ class _SplashScreenState extends State<SplashScreen> {
                 'https://png.pngtree.com/png-clipart/20181003/ourmid/pngtree-whatsapp-social-media-icon-design-template-vector-whatsapp-logo-png-image_3654780.png',
             height: 250,
             width: 250,),
-            const SizedBox(height: 300,),
+            const SizedBox(height: 200,),
             Text('from', style: TextStyle(fontFamily: 'Roboto'),),
             Text('Meta', style: TextStyle(color: Colors.teal,fontSize: 40, fontFamily: 'Roboto'),),
           ],
