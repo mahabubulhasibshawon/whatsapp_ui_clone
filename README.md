@@ -133,8 +133,7 @@ Feel free to contribute or suggest improvements!
 
 ---
 
-## License
-[MIT License](LICENSE)
+
 
 ---
 
