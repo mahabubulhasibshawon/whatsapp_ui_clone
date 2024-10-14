@@ -9,6 +9,7 @@ This project is a UI clone of WhatsApp built with Flutter. It consists of a spla
 - **Tabbed Navigation**: Includes four tabs for Camera, Chats, Status, and Calls.
 - **Custom UI Elements**: Chats, statuses, and calls are generated dynamically using `ListView.builder`.
 - **Popup Menu**: Contains options for "New Group", "Settings", and "Logout".
+- **Rest Api**: Implemented rest api for import data from api
 
 ---
 
